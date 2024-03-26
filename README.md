@@ -7,7 +7,7 @@
   😎 Introduction
   <p>안녕하세요! 신입 AI 개발자 홍준표입니다!<br>
   더 많은 경험과 더 높은 발전을 위해 열심히 달려가는 중입니다!🏃‍♂️</p>
-</div>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wnsvy1237)](https://solved.ac/wnsvy1237)<br/>
 
@@ -19,3 +19,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getreadytoUG&show_icons=true&theme=dracula)
+
+</div>
