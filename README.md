@@ -40,8 +40,6 @@
 
 #### AI-NAMee(AI for National Assembly Meeting) : 국민 알권리 보장을 위한 국회 회의록 응답 챗봇
 
-<img width="100%" alt="image" src="https://github.com/getreadytoUG/Matchuri/assets/127275992/aafd69e6-33d0-473e-80ab-46bf00ec079f">
-
 <br> <br>
 
 -----------------------------
