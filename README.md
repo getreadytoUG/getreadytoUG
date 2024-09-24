@@ -38,6 +38,22 @@
 
 ### 📚 Projects
 
+#### AI-NAMee(AI for National Assembly Meeting) : 국민 알권리 보장을 위한 국회 회의록 응답 챗봇
+
+<img width="100%" alt="image" src="https://github.com/getreadytoUG/Matchuri/assets/127275992/aafd69e6-33d0-473e-80ab-46bf00ec079f">
+
+<br> <br>
+
+-----------------------------
+
+#### AMADU(AI Merchant Analysis Daily Update) : 농산물 가격 예측 및 농사 관련 정보 제공 서비스
+
+<img width="100%" alt="image" src="https://github.com/getreadytoUG/Matchuri/assets/127275992/aafd69e6-33d0-473e-80ab-46bf00ec079f">
+
+<br> <br>
+
+-----------------------------
+
 #### CAIROSS(Cliff Alarm Item for Rescue Of Severe Situation) : 교량 위 위험 행동 방지 및 빠른 초동조치를 위한 CCTV 분석 AI 서비스
 
 <img width="100%" alt="image" src="https://github.com/getreadytoUG/CAIROSS/assets/127275992/58fe1337-18aa-44d3-a5d4-ebb4ddeaba43">
