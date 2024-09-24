@@ -48,7 +48,7 @@
 
 #### AMADU(AI Merchant Analysis Daily Update) : 농산물 가격 예측 및 농사 관련 정보 제공 서비스
 
-<img width="100%" alt="image" src="https://github.com/getreadytoUG/Matchuri/assets/127275992/aafd69e6-33d0-473e-80ab-46bf00ec079f">
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/e867a29b-f020-4b33-b8d8-6bcd0d52cdb2">
 
 <br> <br>
 
